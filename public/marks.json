@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "Maths": 75,
+    "Physics": 80,
+    "Chemistry": 85,
+    "English": 70
+  },
+  {
+    "id": 2,
+    "name": "Alice",
+
+    "Maths": 90,
+    "Physics": 75,
+    "Chemistry": 80,
+    "English": 85
+  },
+  {
+    "id": 3,
+    "name": "Bob",
+    "Maths": 80,
+    "Physics": 85,
+    "Chemistry": 70,
+    "English": 90
+  },
+  {
+    "id": 4,
+    "name": "Sarah",
+    "Maths": 85,
+    "Physics": 90,
+    "Chemistry": 75,
+    "English": 80
+  },
+  {
+    "id": 5,
+    "name": "Michael",
+    "Maths": 75,
+    "Physics": 80,
+    "Chemistry": 85,
+    "English": 70
+  },
+  {
+    "id": 6,
+    "name": "Emily",
+    "Maths": 90,
+    "Physics": 75,
+    "Chemistry": 80,
+    "English": 85
+  },
+  {
+    "id": 7,
+    "name": "David",
+    "Maths": 80,
+    "Physics": 85,
+    "Chemistry": 40,
+    "English": 90
+  },
+  {
+    "id": 8,
+    "name": "Olivia",
+    "Maths": 85,
+    "Physics": 90,
+    "Chemistry": 75,
+    "English": 80
+  },
+  {
+    "id": 9,
+    "name": "Ethan",
+    "Maths": 70,
+    "Physics": 75,
+    "Chemistry": 80,
+    "English": 85
+  },
+  {
+    "id": 10,
+    "name": "Sophia",
+    "Maths": 80,
+    "Physics": 85,
+    "Chemistry": 90,
+    "English": 75
+  }
+]

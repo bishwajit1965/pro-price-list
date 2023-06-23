@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 50,
+    "features": [
+      {
+        "id": 1,
+        "feature": "24/7 Gym Access"
+      },
+      {
+        "id": 2,
+        "feature": "Locker Room Access"
+      },
+      {
+        "id": 3,
+        "feature": "Basic Fitness Classes"
+      },
+      {
+        "id": 4,
+        "feature": "Free Personal Training Session"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 100,
+    "features": [
+      {
+        "id": 1,
+        "feature": "24/7 Gym Access"
+      },
+      {
+        "id": 2,
+        "feature": "Locker Room Access"
+      },
+      {
+        "id": 3,
+        "feature": "Unlimited Fitness Classes"
+      },
+      {
+        "id": 4,
+        "feature": "Free Personal Training Session"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ultimate Membership",
+    "price": 150,
+    "features": [
+      {
+        "id": 1,
+        "feature": "24/7 Gym Access"
+      },
+      {
+        "id": 2,
+        "feature": "Locker Room Access"
+      },
+      {
+        "id": 3,
+        "feature": "Unlimited Fitness Classes"
+      },
+      {
+        "id": 4,
+        "feature": "Free Personal Training Session"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Family Membership",
+    "price": 200,
+    "features": [
+      {
+        "id": 1,
+        "feature": "24/7 Gym Access for the whole family"
+      },
+      {
+        "id": 2,
+        "feature": "Family Locker Room Access"
+      },
+      {
+        "id": 3,
+        "feature": "Unlimited Family Fitness Classes"
+      },
+      {
+        "id": 4,
+        "feature": "One Free Family Personal Training Session"
+      }
+    ]
+  }
+]
